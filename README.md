@@ -15,4 +15,4 @@ to classify network traffic as normal or intrusion.
 1. Install dependencies:
    pip install streamlit scikit-learn numpy pandas
 2. Run the app:
-   streamlit run nids_app.py
+   streamlit run nids_main.py
